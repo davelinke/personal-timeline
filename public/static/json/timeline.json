@@ -3,16 +3,32 @@
         {
             "source": "github",
             "image": false,
+            "title": "personal-timeline",
+            "url": "https://github.com/davelinke/personal-timeline",
+            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
+            "date": "2017-10-22T15:31:32.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "davelinke.github.io",
+            "url": "https://github.com/davelinke/davelinke.github.io",
+            "description": "The new and shiny homepage of David Linke",
+            "date": "2017-10-22T15:27:43.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
             "title": "node-js-web-scraper",
-            "url": "/davelinke/node-js-web-scraper",
+            "url": "https://github.com/davelinke/node-js-web-scraper",
             "description": "A little Node.js module that scrapes web content and formats it into json",
-            "date": "2017-10-17T22:43:31.000Z"
+            "date": "2017-10-18T00:14:56.000Z"
         },
         {
             "source": "github",
             "image": false,
             "title": "social-media-jumbotron",
-            "url": "/davelinke/social-media-jumbotron",
+            "url": "https://github.com/davelinke/social-media-jumbotron",
             "description": "A React, Redux, AJAX exercise on how to display social media in jumbotron fashion.",
             "date": "2017-08-30T15:23:19.000Z"
         },
@@ -20,17 +36,9 @@
             "source": "github",
             "image": false,
             "title": "flight-operator-panel",
-            "url": "/davelinke/flight-operator-panel",
+            "url": "https://github.com/davelinke/flight-operator-panel",
             "description": "A basic AngularJS Application i made as a test for a private-flight company interview.",
             "date": "2017-08-11T01:04:56.000Z"
-        },
-        {
-            "source": "github",
-            "image": false,
-            "title": "davelinke.github.io",
-            "url": "/davelinke/davelinke.github.io",
-            "description": "The new and shiny homepage of David Linke",
-            "date": "2017-08-09T03:12:59.000Z"
         },
         {
             "source": "medium",
@@ -140,7 +148,7 @@
             "source": "github",
             "image": false,
             "title": "React-Google-Fonts-browser",
-            "url": "/davelinke/React-Google-Fonts-browser",
+            "url": "https://github.com/davelinke/React-Google-Fonts-browser",
             "description": "A Google Fonts browser built on React",
             "date": "2016-11-30T23:15:06.000Z"
         },
@@ -148,7 +156,7 @@
             "source": "github",
             "image": false,
             "title": "Flickr-vanilla-javascript-photo-grid",
-            "url": "/davelinke/Flickr-vanilla-javascript-photo-grid",
+            "url": "https://github.com/davelinke/Flickr-vanilla-javascript-photo-grid",
             "description": "A vanilla javascript Flickr based photo grid - (this was part of some interviewing exercise)",
             "date": "2016-11-01T13:12:08.000Z"
         },
@@ -164,7 +172,7 @@
             "source": "github",
             "image": false,
             "title": "AngularJS-web-based-visual-wireframe-editor",
-            "url": "/davelinke/AngularJS-web-based-visual-wireframe-editor",
+            "url": "https://github.com/davelinke/AngularJS-web-based-visual-wireframe-editor",
             "description": "An AngularJS, Bootstrap, jQuery, Sass web based wireframe editor. You can check the demo at http://davelinke.com/editor",
             "date": "2016-01-23T17:13:37.000Z"
         },
@@ -172,7 +180,7 @@
             "source": "github",
             "image": false,
             "title": "jQuery-svg-arc-creator",
-            "url": "/davelinke/jQuery-svg-arc-creator",
+            "url": "https://github.com/davelinke/jQuery-svg-arc-creator",
             "description": "Generation of circles and arcs with jquery and SVG to use on spinners and progress meters",
             "date": "2015-12-06T17:53:18.000Z"
         },
@@ -180,7 +188,7 @@
             "source": "github",
             "image": false,
             "title": "ez",
-            "url": "/davelinke/ez",
+            "url": "https://github.com/davelinke/ez",
             "description": "A jQuery based single page application router focused on UI transitions",
             "date": "2015-12-06T17:50:52.000Z"
         },
@@ -196,7 +204,7 @@
             "source": "github",
             "image": false,
             "title": "jquery-differential-scroller",
-            "url": "/davelinke/jquery-differential-scroller",
+            "url": "https://github.com/davelinke/jquery-differential-scroller",
             "description": "a jQuery plugin to have differential scrolling areas within one page",
             "date": "2015-12-01T06:46:10.000Z"
         },
@@ -204,7 +212,7 @@
             "source": "github",
             "image": false,
             "title": "jquery-ipod-style-drilldown-menu",
-            "url": "/davelinke/jquery-ipod-style-drilldown-menu",
+            "url": "https://github.com/davelinke/jquery-ipod-style-drilldown-menu",
             "description": "Title says it all, a jQuery plugin that creates iPod style drilldown menus.",
             "date": "2015-12-01T06:45:46.000Z"
         },
@@ -236,7 +244,7 @@
             "source": "github",
             "image": false,
             "title": "an-api-built-on-a-wordpress-theme",
-            "url": "/davelinke/an-api-built-on-a-wordpress-theme",
+            "url": "https://github.com/davelinke/an-api-built-on-a-wordpress-theme",
             "description": "This is a wordpress theme that outputs json data instead of HTML. If you ask yourself why? just think about throwing in a blender the permalink capabilities of wordpress, plus the caching plugins available plus a JSON/JSONP output and you'll have your answer",
             "date": "2014-10-08T13:43:28.000Z"
         },
@@ -244,7 +252,7 @@
             "source": "github",
             "image": false,
             "title": "fantastic-radial-menu",
-            "url": "/davelinke/fantastic-radial-menu",
+            "url": "https://github.com/davelinke/fantastic-radial-menu",
             "description": "A menu that displays as a circumference arc designed with mobile devices in mind.",
             "date": "2014-10-05T18:40:31.000Z"
         },

@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 import store from '../store';
 import { connect } from 'react-redux';
-import * as lang from '../structures/languages';
+//import * as lang from '../structures/languages';
 //import { Link } from 'react-router';
+
+import './timeline.css';
 
 class Timeline extends Component {
     componentDidMount(){
@@ -18,16 +20,30 @@ class Timeline extends Component {
             });
         }).catch(function(err) {});
     }
+    niceDate(dateString,format){
+        const theDate = new Date(dateString);
+        return theDate.getMonth()+1 + '/' + theDate.getDate() + '/' + (theDate.getFullYear()-2000);
+    }
     renderTimeline(items){
         let output =[];
-        items.map((item)=>{
-            output.push(<div>{item.title}</div>);
+        items.map((item,i)=>{
+            return output.push(
+                <li key={i} className={'item-card item-card'+item.source}>
+                    <p><i className={'fa fa-'+item.source} aria-hidden="true"></i><span className="sr">{item.source}</span></p>
+                    <h3><a href={item.url} target="_blank">{item.title}</a></h3>
+                    <p className="item-date">{this.niceDate(item.date)}</p>
+                    <p>{item.description}</p>
+                </li>
+            );
         });
         return output;
     }
     render(){
-        console.log('woot');
-        return(<div className="timeline">{this.renderTimeline(this.props.timeline.items)}</div>);
+        return(
+            <ul className="timeline">
+                {this.renderTimeline(this.props.timeline.items)}
+            </ul>
+        );
     }
 }
 
