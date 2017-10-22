@@ -1,0 +1,316 @@
+{
+    "items": [
+        {
+            "source": "github",
+            "image": false,
+            "title": "node-js-web-scraper",
+            "url": "/davelinke/node-js-web-scraper",
+            "description": "A little Node.js module that scrapes web content and formats it into json",
+            "date": "2017-10-17T22:43:31.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "social-media-jumbotron",
+            "url": "/davelinke/social-media-jumbotron",
+            "description": "A React, Redux, AJAX exercise on how to display social media in jumbotron fashion.",
+            "date": "2017-08-30T15:23:19.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "flight-operator-panel",
+            "url": "/davelinke/flight-operator-panel",
+            "description": "A basic AngularJS Application i made as a test for a private-flight company interview.",
+            "date": "2017-08-11T01:04:56.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "davelinke.github.io",
+            "url": "/davelinke/davelinke.github.io",
+            "description": "The new and shiny homepage of David Linke",
+            "date": "2017-08-09T03:12:59.000Z"
+        },
+        {
+            "source": "medium",
+            "image": false,
+            "title": "From your brother who has been almost doing what you did for almost 20 years, just go do it, build…",
+            "url": "https://medium.com/@davelinke/from-your-brother-who-has-been-almost-20-years-doing-what-you-did-just-go-fucking-do-it-build-3cf3ab3fb2ed?source=rss-dcad4dd40ac8------2",
+            "description": "<p>From your brother who has been almost doing what you did for almost 20 years, just go do it, build something, fail a gazillion times and then finish it. This is the story of those who really want to achieve something, they just went for it, and it is also a sign of a future that is getting closer where the traditional academy does not exist any more.</p><p>If you ever hit a brick wall, don’t hesitate to ask me something, most likely I’ve hit that brick wall myself too.</p><p>God bless you man!</p>",
+            "date": "2017-07-23T03:55:41.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/11a0a553213963.Y3JvcCw5NDUsNzQwLDI4LDA.png",
+            "title": "MigraineYogi.com",
+            "url": "https://www.behance.net/gallery/53213963/MigraineYogicom",
+            "description": "",
+            "date": "2017-05-29T22:10:07.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/b9e29853208451.Y3JvcCwyMTYzLDE2OTMsMjEzLDA.png",
+            "title": "Pinocchio.us",
+            "url": "https://www.behance.net/gallery/53208451/Pinocchious",
+            "description": "A user interface prototyping applications",
+            "date": "2017-05-29T19:21:06.000Z"
+        },
+        {
+            "source": "medium",
+            "image": false,
+            "title": "Beautiful post. Couldn’t have stated it better.",
+            "url": "https://medium.com/@davelinke/beautiful-post-couldnt-have-stated-it-better-d674becd298?source=rss-dcad4dd40ac8------2",
+            "description": "<p>Beautiful post. Couldn’t have stated it better.</p>",
+            "date": "2017-03-02T01:34:34.000Z"
+        },
+        {
+            "source": "medium",
+            "image": false,
+            "title": "Data vs. Vision.",
+            "url": "https://medium.com/@davelinke/data-vs-vision-7cf85c8ead35?source=rss-dcad4dd40ac8------2",
+            "description": "<p>Data vs. Vision. Two different approaches to solving a problem. Both valid, not necessarily antagonic. Neither of the two is the valid answer. Some designers like one, some the other. What you have to concede, is even by having extensive user research there is no guarantee that the end product will be useful, cause you still have the interpretation of a human being translating the data onto something. That’s why some like to skip it and start interpreting right away. Vision also comes from interpreting historical references and similar solutions to be adapted to solve the problem, so essentially it’s not a research-less path.</p>",
+            "date": "2017-02-28T02:10:31.000Z"
+        },
+        {
+            "source": "codepen",
+            "image": false,
+            "title": "React, Redux, Connect, Router",
+            "url": "https://codepen.io/davelinke/pen/dNBNRo",
+            "description": "Just wanted to get my head around Redux, plus establishing the proper connection to the component with the react-redux tools  while also fiddling with some Material Design Lite.",
+            "date": "2017-02-20T06:49:08.000Z"
+        },
+        {
+            "source": "medium",
+            "image": false,
+            "title": "I happen to agree with you.",
+            "url": "https://medium.com/@davelinke/i-happen-to-agree-with-you-76a8ffd0173?source=rss-dcad4dd40ac8------2",
+            "description": "<p>I happen to agree with you. I guess it’s architecture school that trained me like this. Build something tangible, iterate fast. It’s how I roll and how I perform best. Although it has certainly looked as a disadvantage to certain roles in the design Industry, so those who think like you and me, have got to define ourselves as innovators, not researches, we have to declare up front that we work best when there’s little to gather data from.</p><p>I think of this as an advantage, but also look at every other process as valuable, every designer feels comfortable with certain rules to approach a problem.</p><p>There is certainly an advantage in front of the customer, and this I have tested in a project where there was another firm competing for the same gig, while they were mute gathering information and pasting stickies on the wall, we were already discussing components, technology and visual refinement with the customer, we even skipped the wire framing and delivered hifi every sprint. At the end of the race, we had a full fledged realistic prototype while the other agency had personas, catchy sentences and lofi wires.</p><p>We won that project… …we actually crushed them.</p>",
+            "date": "2017-02-20T03:36:00.000Z"
+        },
+        {
+            "source": "codepen",
+            "image": false,
+            "title": "Not Your Average React-Redux To-Do List with connect",
+            "url": "https://codepen.io/davelinke/pen/KaLbdL",
+            "description": "Just wanted to get my head around Redux, plus establishing the proper connection to the component with the react-redux tools  while also fiddling with some Material Design Lite.",
+            "date": "2017-02-19T23:35:42.000Z"
+        },
+        {
+            "source": "codepen",
+            "image": false,
+            "title": "Google Fonts Browser with ReactJS",
+            "url": "https://codepen.io/davelinke/pen/YppzNW",
+            "description": "A pure Raact google fonts browser example.",
+            "date": "2017-02-19T23:33:52.000Z"
+        },
+        {
+            "source": "codepen",
+            "image": false,
+            "title": "less exercise",
+            "url": "https://codepen.io/davelinke/pen/LbZjdJ",
+            "description": "Exploration on the proper use of LESS and CSS3 to create a responsive layout without any framework,",
+            "date": "2017-02-19T23:32:23.000Z"
+        },
+        {
+            "source": "codepen",
+            "image": false,
+            "title": "AngularJS flight app",
+            "url": "https://codepen.io/davelinke/pen/XNNaqN",
+            "description": "This is a basic AngularJS exercise that covers the adequate architecture of a simple application.",
+            "date": "2017-02-19T23:29:38.000Z"
+        },
+        {
+            "source": "codepen",
+            "image": false,
+            "title": "Not Your Average React-Redux To-Do List",
+            "url": "https://codepen.io/davelinke/pen/MJKvgz",
+            "description": "Just wanted to get my head around Redux while also fiddling with some Material Design Lite. This pen does not make use of react-redux connect to integrate the store with the components",
+            "date": "2017-02-19T23:27:34.000Z"
+        },
+        {
+            "source": "codepen",
+            "image": false,
+            "title": "Simple AngularJS HSLA Color Picker Directive",
+            "url": "https://codepen.io/davelinke/pen/oYqwgR",
+            "description": "Although HTML5 is progressing to have native color picker inputs, till now, color components for web applications are either too big or too complex, so idecided to make my own picker HSLA fashion, which is the easiest way to pick a color from the whole spectrum available.",
+            "date": "2017-02-19T23:25:56.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "React-Google-Fonts-browser",
+            "url": "/davelinke/React-Google-Fonts-browser",
+            "description": "A Google Fonts browser built on React",
+            "date": "2016-11-30T23:15:06.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "Flickr-vanilla-javascript-photo-grid",
+            "url": "/davelinke/Flickr-vanilla-javascript-photo-grid",
+            "description": "A vanilla javascript Flickr based photo grid - (this was part of some interviewing exercise)",
+            "date": "2016-11-01T13:12:08.000Z"
+        },
+        {
+            "source": "medium",
+            "image": false,
+            "title": "Design is not exempt from trends, nor critique.",
+            "url": "https://medium.com/@davelinke/design-is-not-exempt-from-trends-nor-critique-f6aa89e8d68e?source=rss-dcad4dd40ac8------2",
+            "description": "<p>Design is not exempt from trends, nor critique.</p><p>Not everyone will like your design decisions, and that&#39;s why there&#39;s a complex and rich history of art.</p><p>As a designer you should be aware of that and not expect the design community to agree with you all the time. Once you have come to terms with that reality only time will grant you with the answer if what you did was good or bad.</p><p>If you are uncomfortable with the social and media repercussions of your work, then you should have picked math or physics as a career.</p><p>And just a little quote to round this up:</p><blockquote>&quot;It took me four years to paint like Raphael, but a lifetime to paint like a child.&quot;</blockquote><blockquote>Pablo Picasso</blockquote>",
+            "date": "2016-05-13T16:02:15.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "AngularJS-web-based-visual-wireframe-editor",
+            "url": "/davelinke/AngularJS-web-based-visual-wireframe-editor",
+            "description": "An AngularJS, Bootstrap, jQuery, Sass web based wireframe editor. You can check the demo at http://davelinke.com/editor",
+            "date": "2016-01-23T17:13:37.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "jQuery-svg-arc-creator",
+            "url": "/davelinke/jQuery-svg-arc-creator",
+            "description": "Generation of circles and arcs with jquery and SVG to use on spinners and progress meters",
+            "date": "2015-12-06T17:53:18.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "ez",
+            "url": "/davelinke/ez",
+            "description": "A jQuery based single page application router focused on UI transitions",
+            "date": "2015-12-06T17:50:52.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/79cb3831844137.Y3JvcCwxMzUwLDEwNTQsMCwxNDg.jpg",
+            "title": "Health Management Application",
+            "url": "https://www.behance.net/gallery/31844137/Health-Management-Application",
+            "description": "This is work is part of my experience at Accenture in designing healthcare software.",
+            "date": "2015-12-05T15:42:06.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "jquery-differential-scroller",
+            "url": "/davelinke/jquery-differential-scroller",
+            "description": "a jQuery plugin to have differential scrolling areas within one page",
+            "date": "2015-12-01T06:46:10.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "jquery-ipod-style-drilldown-menu",
+            "url": "/davelinke/jquery-ipod-style-drilldown-menu",
+            "description": "Title says it all, a jQuery plugin that creates iPod style drilldown menus.",
+            "date": "2015-12-01T06:45:46.000Z"
+        },
+        {
+            "source": "medium",
+            "image": false,
+            "title": "Second article of yours I respond to today.",
+            "url": "https://medium.com/@davelinke/second-article-of-yours-i-respond-to-today-9c7b35648ebd?source=rss-dcad4dd40ac8------2",
+            "description": "<p>Second article of yours I respond to today.</p><p>The design procces is not always like you describe it. And that’s a good thing, cause then it would be always driven by a statistical approach. If design was like that then we all could say that you might as well fire your UX designer and make the UI guy use an A/B testing engine. Maybe it could cost more resources at first, but the statistical streamlining would enhance the product so much that you’d get your money back on the long run.</p><p>I like how vocal you are in defense of your method, but being a good designer is also recognizing that there are other ways to solve a problem which is what design stands for.</p>",
+            "date": "2015-11-02T05:12:23.000Z"
+        },
+        {
+            "source": "medium",
+            "image": false,
+            "title": "In architecture you drive UX through UI, maybe that’s the key in the marriage of both, having the…",
+            "url": "https://medium.com/@davelinke/in-architecture-you-drive-ux-through-ui-maybe-that-s-the-key-in-the-marriage-of-both-having-the-4a47f87e0b6b?source=rss-dcad4dd40ac8------2",
+            "description": "<p>In architecture you drive UX through UI, maybe that’s the key in the marriage of both, having the process to flow backwards, by creating UI to define the UX.</p><p>I guess design is different from other fields because allows you to do that.</p>",
+            "date": "2015-11-02T04:52:15.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20449833.543ab159c4188.jpg",
+            "title": "Cricketmag.com",
+            "url": "https://www.behance.net/gallery/20449833/Cricketmagcom",
+            "description": "Redesign and UI development for the renewals engine, shopping cart and checkout experiences for cricketmag.com",
+            "date": "2014-10-12T16:47:04.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "an-api-built-on-a-wordpress-theme",
+            "url": "/davelinke/an-api-built-on-a-wordpress-theme",
+            "description": "This is a wordpress theme that outputs json data instead of HTML. If you ask yourself why? just think about throwing in a blender the permalink capabilities of wordpress, plus the caching plugins available plus a JSON/JSONP output and you'll have your answer",
+            "date": "2014-10-08T13:43:28.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "fantastic-radial-menu",
+            "url": "/davelinke/fantastic-radial-menu",
+            "description": "A menu that displays as a circumference arc designed with mobile devices in mind.",
+            "date": "2014-10-05T18:40:31.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20251391.543010c3f0083.jpg",
+            "title": "City Icons",
+            "url": "https://www.behance.net/gallery/20251391/City-Icons",
+            "description": "This is an icon set of all the public buildings of the Chacao Municipality in Caracas, Venezuela. The work was developed while working alongside Leopoldo Lopez, the former Chacao Major.",
+            "date": "2014-10-04T05:42:40.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20227603.542f7d7c10a03.jpg",
+            "title": "Reelr.tv",
+            "url": "https://www.behance.net/gallery/20227603/Reelrtv",
+            "description": "Reelr.tv consisted in a webapp that created realtime playlists based on tweets.",
+            "date": "2014-10-04T04:56:06.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20250203.542f676fb7ff9.jpg",
+            "title": "SocialAsq",
+            "url": "https://www.behance.net/gallery/20250203/SocialAsq",
+            "description": "The SocialAsq project was based in a simple questionnaire engine to hook with your social networks to get answers from your friends on simple questions.",
+            "date": "2014-10-04T03:23:28.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20226915.542e148384161.jpg",
+            "title": "Discovery Channel - 15 años de experiencias",
+            "url": "https://www.behance.net/gallery/20226915/Discovery-Channel-15-anos-de-experiencias",
+            "description": "This is a microsite designed for the 15th anniversary of Discovery Channel LatAm.",
+            "date": "2014-10-03T03:16:30.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20226639.542e0f5c853f5.jpg",
+            "title": "web.linke",
+            "url": "https://www.behance.net/gallery/20226639/weblinke",
+            "description": "This is the theme developed for the homepage, blog and portfolio of my web consulting shop back in Venezuela.",
+            "date": "2014-10-03T02:54:17.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20226195.542e09447a544.jpg",
+            "title": "Claro y Simple",
+            "url": "https://www.behance.net/gallery/20226195/Claro-y-Simple",
+            "description": "Claro y Simple was a personal project in which i both did design and technology. It consisted in a News portal that presented stories from different outlets aggregated in a well designed and convenient way. The spidering and aggregation technology was sold although i kept the rights to the brand.",
+            "date": "2014-10-03T02:30:38.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20199691.542f6e923b2d7.jpg",
+            "title": "ePals Global Community",
+            "url": "https://www.behance.net/gallery/20199691/ePals-Global-Community",
+            "description": "Some of the work on design done for ePals and it's Global Community",
+            "date": "2014-10-02T04:03:31.000Z"
+        },
+        {
+            "source": "behance",
+            "image": "https://mir-s3-cdn-cf.behance.net/projects/404/20199223.542cc88204647.jpg",
+            "title": "Global Community Icons",
+            "url": "https://www.behance.net/gallery/20199223/Global-Community-Icons",
+            "description": "While working at ePals, there was a time where we were in the need of some icons to better illustrate sections of learning center pages. There was a sticker trend going around in which I fell into aswell.",
+            "date": "2014-10-02T03:43:00.000Z"
+        }
+    ]
+}
