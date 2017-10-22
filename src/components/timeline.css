@@ -7,3 +7,48 @@
     overflow: hidden;
     pointer-events: none;
 }
+.timeline {
+    margin: 0 0 0 1.375rem;
+    padding: 0 0 2rem 0;
+    list-style: none outside;
+    border-left: 2px dotted #fff;
+}
+.item-card {
+    background-color: rgba(255,255,255,0.90);
+    border-radius: 0.25rem;
+    padding: 1rem;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.30);
+    position: relative;
+    margin: 0 0 1.5rem 2.5rem;
+}
+.item-card:last-child {
+    margin-bottom: 0;
+}
+.item-source {
+    display: block;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    left: calc(-3.5rem - 1px);
+    top: 0.5rem;
+    background-color: #fff;
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    font-size: 1rem;
+    line-height: 2rem;
+    text-align: center;
+    box-shadow: 0 3px 3px rgba(0,0,0,0.30);
+}
+.item-title {
+    margin-top: 0;
+    width: calc(100% - 5rem);
+}
+.item-date {
+    position: absolute;
+    right: 1rem;
+    top: 0;
+    color: rgba(0,0,0,0.7);
+    width: 5rem;
+    text-align: right;
+}
