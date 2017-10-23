@@ -8,10 +8,21 @@
     pointer-events: none;
 }
 .timeline {
-    margin: 0 0 0 1.375rem;
-    padding: 0 0 2rem 0;
+    margin: 0;
+    padding: 1rem 2rem 1rem 0;
     list-style: none outside;
+    overflow: auto;
+    position: relative;
+}
+.timeline:before {
+    content: " ";
+    display: block;
     border-left: 2px dotted #fff;
+    height: 100vh;
+    width: 2px;
+    position: fixed;
+    top: 0;
+    left: calc(25% + 4rem);
 }
 .item-card {
     background-color: rgba(255,255,255,0.90);
@@ -29,7 +40,7 @@
     position: absolute;
     margin: 0;
     padding: 0;
-    left: calc(-3.5rem - 1px);
+    left: calc(-2.5rem + 1px);
     top: 0.5rem;
     background-color: #fff;
     width: 2rem;

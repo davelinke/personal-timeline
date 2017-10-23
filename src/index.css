@@ -1,10 +1,16 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 
+html, body {
+    height: 100%;
+}
 body {
     margin: 0;
     padding: 0;
     font-family: 'Titillium Web', sans-serif;
     background-image: linear-gradient(to right, #06beb6, #48b1bf);
-    padding:0 2rem;
+}
+#root{
+    padding: 0;
+    height: 100%;
 }
