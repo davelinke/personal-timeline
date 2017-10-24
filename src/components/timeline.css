@@ -12,7 +12,9 @@
     padding: 1rem 2rem 1rem 0;
     list-style: none outside;
     overflow: auto;
-    position: relative;
+    position: absolute;
+    top: 0;
+    left: calc(25% + 3rem);
 }
 .timeline:before {
     content: " ";
@@ -30,7 +32,17 @@
     padding: 1rem;
     box-shadow: 0 3px 3px rgba(0,0,0,0.30);
     position: relative;
-    margin: 0 0 1.5rem 2.5rem;
+    margin: 0 0 1.5rem 3rem;
+}
+.item-card:before {
+    content: "▲";
+    color: rgba(255,255,255,0.9);
+    position: absolute;
+    top: calc(0.5rem - 2px);
+    left: calc(-1rem - 1px);
+    transform: rotate(270deg) scaleY(0.5);
+    text-shadow: 0px -3px 1px rgba(0,0,0,0.3);
+    font-size: 1.5rem;
 }
 .item-card:last-child {
     margin-bottom: 0;
@@ -40,7 +52,7 @@
     position: absolute;
     margin: 0;
     padding: 0;
-    left: calc(-2.5rem + 1px);
+    left: calc(-3rem + 1px);
     top: 0.5rem;
     background-color: #fff;
     width: 2rem;

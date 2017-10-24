@@ -1,11 +1,10 @@
 main {
-    display: flex;
     height: 100%;
     overflow: hidden;
 }
-.user-info{
+.user-info {
     width: 25%;
-    flex-grow: 0;
-    flex-shrink: 0;
     padding: 0 1rem 0 2rem;
+    display: block;
+    position: fixed;
 }
