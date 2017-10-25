@@ -3,6 +3,14 @@
         {
             "source": "github",
             "image": false,
+            "title": "personal-timeline",
+            "url": "https://github.com/davelinke/personal-timeline",
+            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
+            "date": "2017-10-25T23:25:25.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
             "title": "node-js-web-scraper",
             "url": "https://github.com/davelinke/node-js-web-scraper",
             "description": "A little Node.js module that scrapes web content and formats it into json",
@@ -15,14 +23,6 @@
             "url": "https://github.com/davelinke/davelinke.github.io",
             "description": "The new and shiny homepage of David Linke",
             "date": "2017-10-25T10:15:15.000Z"
-        },
-        {
-            "source": "github",
-            "image": false,
-            "title": "personal-timeline",
-            "url": "https://github.com/davelinke/personal-timeline",
-            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
-            "date": "2017-10-25T10:14:25.000Z"
         },
         {
             "source": "github",
