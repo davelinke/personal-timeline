@@ -24,6 +24,15 @@ class Timeline extends Component {
         const theDate = new Date(dateString);
         return theDate.getMonth()+1 + '/' + theDate.getDate() + '/' + (theDate.getFullYear()-2000);
     }
+    filterDescription(description){
+        const dl = description.length;
+        const sl = this.props.ui.summaryMaxLength;
+        if (dl>sl) {
+            description = description.substring(0,sl);
+            description = description.substring(0,description.lastIndexOf(' ')) + '...';
+        }
+        return description;
+    }
     renderTimeline(items){
         let output =[];
         items.map((item,i)=>{
@@ -32,7 +41,7 @@ class Timeline extends Component {
                     <p className="item-source"><i className={'fa fa-'+item.source} aria-hidden="true"></i><span className="sr">{item.source}</span></p>
                     <h3 className="item-title"><a href={item.url} target="_blank">{item.title}</a></h3>
                     <p className="item-date">{this.niceDate(item.date)}</p>
-                    <p className="item-description">{item.description}</p>
+                    <p className="item-description">{this.filterDescription(item.description)}</p>
                 </li>
             );
         });
@@ -50,7 +59,8 @@ class Timeline extends Component {
 const mapStateToProps = function(store) {
     return {
         defaults:store.defaults,
-        timeline:store.timeline
+        timeline:store.timeline,
+        ui:store.ui
     };
 };
 const SmartTimeline = connect(mapStateToProps)(Timeline);

@@ -3,18 +3,18 @@
         {
             "source": "github",
             "image": false,
-            "title": "davelinke.github.io",
-            "url": "https://github.com/davelinke/davelinke.github.io",
-            "description": "The new and shiny homepage of David Linke",
-            "date": "2017-10-22T19:58:13.000Z"
+            "title": "personal-timeline",
+            "url": "https://github.com/davelinke/personal-timeline",
+            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
+            "date": "2017-10-24T23:44:26.000Z"
         },
         {
             "source": "github",
             "image": false,
-            "title": "personal-timeline",
-            "url": "https://github.com/davelinke/personal-timeline",
-            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
-            "date": "2017-10-22T19:55:39.000Z"
+            "title": "davelinke.github.io",
+            "url": "https://github.com/davelinke/davelinke.github.io",
+            "description": "The new and shiny homepage of David Linke",
+            "date": "2017-10-23T23:13:01.000Z"
         },
         {
             "source": "github",
@@ -53,7 +53,7 @@
             "image": "https://mir-s3-cdn-cf.behance.net/projects/404/11a0a553213963.Y3JvcCw5NDUsNzQwLDI4LDA.png",
             "title": "MigraineYogi.com",
             "url": "https://www.behance.net/gallery/53213963/MigraineYogicom",
-            "description": "",
+            "description": "MigraineYogi.com is a small brochureware site i just did as a favor and allowed me to practice some UX and UI design concepts and techniques such as mobile first, animated interaction patterns and hardware accelerated CSS.",
             "date": "2017-05-29T22:10:07.000Z"
         },
         {
@@ -81,14 +81,6 @@
             "date": "2017-02-28T02:10:31.000Z"
         },
         {
-            "source": "codepen",
-            "image": false,
-            "title": "React, Redux, Connect, Router",
-            "url": "https://codepen.io/davelinke/pen/dNBNRo",
-            "description": "Just wanted to get my head around Redux, plus establishing the proper connection to the component with the react-redux tools  while also fiddling with some Material Design Lite.",
-            "date": "2017-02-20T06:49:08.000Z"
-        },
-        {
             "source": "medium",
             "image": false,
             "title": "I happen to agree with you.",
@@ -99,42 +91,10 @@
         {
             "source": "codepen",
             "image": false,
-            "title": "Not Your Average React-Redux To-Do List with connect",
-            "url": "https://codepen.io/davelinke/pen/KaLbdL",
-            "description": "Just wanted to get my head around Redux, plus establishing the proper connection to the component with the react-redux tools  while also fiddling with some Material Design Lite.",
-            "date": "2017-02-19T23:35:42.000Z"
-        },
-        {
-            "source": "codepen",
-            "image": false,
-            "title": "Google Fonts Browser with ReactJS",
-            "url": "https://codepen.io/davelinke/pen/YppzNW",
-            "description": "A pure Raact google fonts browser example.",
-            "date": "2017-02-19T23:33:52.000Z"
-        },
-        {
-            "source": "codepen",
-            "image": false,
             "title": "less exercise",
             "url": "https://codepen.io/davelinke/pen/LbZjdJ",
             "description": "Exploration on the proper use of LESS and CSS3 to create a responsive layout without any framework,",
             "date": "2017-02-19T23:32:23.000Z"
-        },
-        {
-            "source": "codepen",
-            "image": false,
-            "title": "AngularJS flight app",
-            "url": "https://codepen.io/davelinke/pen/XNNaqN",
-            "description": "This is a basic AngularJS exercise that covers the adequate architecture of a simple application.",
-            "date": "2017-02-19T23:29:38.000Z"
-        },
-        {
-            "source": "codepen",
-            "image": false,
-            "title": "Not Your Average React-Redux To-Do List",
-            "url": "https://codepen.io/davelinke/pen/MJKvgz",
-            "description": "Just wanted to get my head around Redux while also fiddling with some Material Design Lite. This pen does not make use of react-redux connect to integrate the store with the components",
-            "date": "2017-02-19T23:27:34.000Z"
         },
         {
             "source": "codepen",

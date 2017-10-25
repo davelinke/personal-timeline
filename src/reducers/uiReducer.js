@@ -2,7 +2,8 @@ const defaultState = {
   lightbox:{
       visible:false,
       url:'about:blank'
-  }
+  },
+  summaryMaxLength:350
 };
 
 // create the reducers that will control the model
