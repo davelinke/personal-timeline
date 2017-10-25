@@ -3,10 +3,10 @@
         {
             "source": "github",
             "image": false,
-            "title": "personal-timeline",
-            "url": "https://github.com/davelinke/personal-timeline",
-            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
-            "date": "2017-10-24T23:44:26.000Z"
+            "title": "node-js-web-scraper",
+            "url": "https://github.com/davelinke/node-js-web-scraper",
+            "description": "A little Node.js module that scrapes web content and formats it into json",
+            "date": "2017-10-25T22:35:32.000Z"
         },
         {
             "source": "github",
@@ -14,15 +14,15 @@
             "title": "davelinke.github.io",
             "url": "https://github.com/davelinke/davelinke.github.io",
             "description": "The new and shiny homepage of David Linke",
-            "date": "2017-10-23T23:13:01.000Z"
+            "date": "2017-10-25T10:15:15.000Z"
         },
         {
             "source": "github",
             "image": false,
-            "title": "node-js-web-scraper",
-            "url": "https://github.com/davelinke/node-js-web-scraper",
-            "description": "A little Node.js module that scrapes web content and formats it into json",
-            "date": "2017-10-18T00:14:56.000Z"
+            "title": "personal-timeline",
+            "url": "https://github.com/davelinke/personal-timeline",
+            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
+            "date": "2017-10-25T10:14:25.000Z"
         },
         {
             "source": "github",
@@ -125,7 +125,7 @@
             "image": false,
             "title": "Design is not exempt from trends, nor critique.",
             "url": "https://medium.com/@davelinke/design-is-not-exempt-from-trends-nor-critique-f6aa89e8d68e?source=rss-dcad4dd40ac8------2",
-            "description": "Design is not exempt from trends, nor critique.Not everyone will like your design decisions, and that&#39;s why there&#39;s a complex and rich history of art.As a designer you should be aware of that and not expect the design community to agree with you all the time. Once you have come to terms with that reality only time will grant you with the answer if what you did was good or bad.If you are uncomfortable with the social and media repercussions of your work, then you should have picked math or physics as a career.And just a little quote to round this up:&quot;It took me four years to paint like Raphael, but a lifetime to paint like a child.&quot;Pablo Picasso",
+            "description": "Design is not exempt from trends, nor critique.Not everyone will like your design decisions, and that's why there's a complex and rich history of art.As a designer you should be aware of that and not expect the design community to agree with you all the time. Once you have come to terms with that reality only time will grant you with the answer if what you did was good or bad.If you are uncomfortable with the social and media repercussions of your work, then you should have picked math or physics as a career.And just a little quote to round this up:\"It took me four years to paint like Raphael, but a lifetime to paint like a child.\"Pablo Picasso",
             "date": "2016-05-13T16:02:15.000Z"
         },
         {
