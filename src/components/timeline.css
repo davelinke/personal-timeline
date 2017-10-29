@@ -26,7 +26,7 @@
     content: " ";
     display: block;
     border-left: 2px dotted #fff;
-    height: 100vh;
+    height: 120vh;
     width: 2px;
     position: fixed;
     top: 0;
@@ -70,18 +70,20 @@
     text-align: center;
 }
 .item-title {
-    margin-top: 0;
     width: calc(100% - 5rem);
-    display:inline;
-    margin-right: 1rem;
+    display: inline;
+    margin: 0 1rem 0 0;
 }
 .item-date {
     color: rgba(0,0,0,0.5);
     font-size: 0.75rem;
-    display: inline;
+    display: inline-block;
+    margin-top: 0;
 }
 .item-description{
     margin-bottom: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 .fa-medium {
     color: #13C05D;
@@ -94,4 +96,22 @@
 }
 .fa-github:before {
     content: "\f113" !important;
+}
+@media (max-width: 767px) {
+    .timeline{
+        position: relative;
+        top:auto;
+        left: auto;
+        overflow: visible;
+        padding: 1rem 1rem 1rem 0;
+    }
+    .timeline:before {
+        left: 2rem;
+    }
+    .item-card{
+        margin:0 0 1.5rem 4rem;
+    }
+    .item-source{
+        left: calc(-3rem + 1px);
+    }
 }

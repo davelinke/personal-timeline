@@ -17,3 +17,8 @@ body {
 a {
     text-decoration: none;
 }
+@media (max-width: 767px) {
+    html, body{
+        height:auto;
+    }
+}

@@ -10,7 +10,7 @@ class App extends Component {
         <div className="user-info">
             <h1 className="user-name"><span>{lang.write('myName')}</span></h1>
             <h2 className="user-tagline">{lang.write('myTitle')}</h2>
-            <p>{lang.write('salutation')}</p>
+            <p className="user-description">{lang.write('salutation')}</p>
         </div>
         <Timeline></Timeline>
       </main>
