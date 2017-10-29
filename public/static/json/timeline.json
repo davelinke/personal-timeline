@@ -3,26 +3,10 @@
         {
             "source": "github",
             "image": false,
-            "title": "personal-timeline",
-            "url": "https://github.com/davelinke/personal-timeline",
-            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
-            "date": "2017-10-25T23:25:25.000Z"
-        },
-        {
-            "source": "github",
-            "image": false,
-            "title": "node-js-web-scraper",
-            "url": "https://github.com/davelinke/node-js-web-scraper",
-            "description": "A little Node.js module that scrapes web content and formats it into json",
-            "date": "2017-10-25T22:35:32.000Z"
-        },
-        {
-            "source": "github",
-            "image": false,
-            "title": "davelinke.github.io",
-            "url": "https://github.com/davelinke/davelinke.github.io",
-            "description": "The new and shiny homepage of David Linke",
-            "date": "2017-10-25T10:15:15.000Z"
+            "title": "React-Google-Fonts-browser",
+            "url": "https://github.com/davelinke/React-Google-Fonts-browser",
+            "description": "A Google Fonts browser built on React",
+            "date": "2017-10-26T20:01:13.000Z"
         },
         {
             "source": "github",
@@ -30,7 +14,31 @@
             "title": "social-media-jumbotron",
             "url": "https://github.com/davelinke/social-media-jumbotron",
             "description": "A React, Redux, AJAX exercise on how to display social media in jumbotron fashion.",
-            "date": "2017-08-30T15:23:19.000Z"
+            "date": "2017-10-26T01:50:14.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "davelinke.github.io",
+            "url": "https://github.com/davelinke/davelinke.github.io",
+            "description": "The sole purpose of this repo is hosting the Github page of David Linke. To view the React/Redux source of this build check my \"personal-timeline\" repo at https://github.com/davelinke/personal-timeline",
+            "date": "2017-10-25T23:37:51.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "personal-timeline",
+            "url": "https://github.com/davelinke/personal-timeline",
+            "description": "A react, redux, ajax web app that aggregates content from your social networks.",
+            "date": "2017-10-25T23:33:38.000Z"
+        },
+        {
+            "source": "github",
+            "image": false,
+            "title": "node-js-web-scraper",
+            "url": "https://github.com/davelinke/node-js-web-scraper",
+            "description": "A little Node.js module that scrapes web content from multiple sources and formats it to json",
+            "date": "2017-10-25T22:35:32.000Z"
         },
         {
             "source": "github",
@@ -103,14 +111,6 @@
             "url": "https://codepen.io/davelinke/pen/oYqwgR",
             "description": "Although HTML5 is progressing to have native color picker inputs, till now, color components for web applications are either too big or too complex, so idecided to make my own picker HSLA fashion, which is the easiest way to pick a color from the whole spectrum available.",
             "date": "2017-02-19T23:25:56.000Z"
-        },
-        {
-            "source": "github",
-            "image": false,
-            "title": "React-Google-Fonts-browser",
-            "url": "https://github.com/davelinke/React-Google-Fonts-browser",
-            "description": "A Google Fonts browser built on React",
-            "date": "2016-11-30T23:15:06.000Z"
         },
         {
             "source": "github",

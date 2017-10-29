@@ -5,8 +5,8 @@ const lang = {
     'en-us':{
         terms:{
             'myName':'David Linke',
-            'myTitle':'Web Designer and Developer.',
-            'salutation':'This is the new home of all the things I am proud of having built.'
+            'myTitle':'Designer & Developer',
+            'salutation':'Browse a collection of work pieces and thoughts on design and development'
         }
     }
 };

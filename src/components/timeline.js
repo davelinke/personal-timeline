@@ -37,7 +37,7 @@ class Timeline extends Component {
         let output =[];
         items.map((item,i)=>{
             return output.push(
-                <li key={i} className={'item-card item-card'+item.source}>
+                <li key={i} className={'item-card item-card-'+item.source}>
                     <p className="item-source"><i className={'fa fa-'+item.source} aria-hidden="true"></i><span className="sr">{item.source}</span></p>
                     <h3 className="item-title"><a href={item.url} target="_blank">{item.title}</a></h3>
                     <p className="item-date">{this.niceDate(item.date)}</p>
